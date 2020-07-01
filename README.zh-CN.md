@@ -2,9 +2,8 @@
 
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
-![海报](./poster.jpg)
 
-app-template 是基于 Spring Boot 和 Vue 的快速开发模板
+AssistiveMaker 是基于 Spring Boot 和 Vue 的快速开发模板
 
 项目采用前后端分离模式，对前后端开发中常用的技术模块进行了整合，并对一些常用功能进行
 了实现，主要是为了方便 Web 程序的的开发.
